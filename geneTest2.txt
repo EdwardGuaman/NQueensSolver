@@ -1,0 +1,42 @@
+Number of generations: 292
+Success
+Result
+8 23 17 9 7 18 16 2 22 6 0 5 13 1 19 24 20 3 11 15 12 10 21 14 4 
+Number of generations: 1151
+Success
+Result
+6 17 9 12 22 3 7 21 11 13 23 1 8 24 2 14 16 0 20 5 15 10 19 4 18 
+Number of generations: 899
+Success
+Result
+12 2 6 18 9 13 16 4 19 22 24 3 5 15 21 0 10 7 1 17 20 8 11 14 23 
+Number of generations: 823
+Success
+Result
+0 18 13 8 20 9 14 1 17 4 2 24 22 15 12 3 5 16 21 10 7 11 23 19 6 
+Number of generations: 1021
+Success
+Result
+11 8 1 19 16 18 10 3 6 24 5 17 15 4 22 20 9 14 0 2 12 21 23 7 13 
+Number of generations: 930
+Success
+Result
+10 15 21 9 7 20 0 23 6 22 12 8 3 14 18 5 2 24 11 19 16 13 17 1 4 
+Number of generations: 2915
+Success
+Result
+19 6 8 1 14 12 23 15 20 3 11 24 21 0 2 5 7 10 13 18 22 17 4 9 16 
+Number of generations: 467
+Success
+Result
+1 18 14 11 8 5 19 2 13 6 3 21 23 16 20 22 15 0 9 4 10 7 24 17 12 
+Number of generations: 774
+Success
+Result
+6 17 10 20 0 16 18 2 12 24 3 11 4 14 23 13 1 8 21 7 22 15 19 9 5 
+Number of generations: 942
+Success
+Result
+17 15 21 16 14 0 5 3 13 11 4 2 24 19 1 23 8 10 22 9 6 18 20 12 7 
+Success rate = 1.0
+Average time = 322.8ms
